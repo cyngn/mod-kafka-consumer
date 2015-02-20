@@ -1,6 +1,6 @@
 # Mod Kafka Consumer
 
-This module allows you to recieve kafka messages and replay them on to the vert.x event bus on an userll specified address.
+This module allows you to recieve kafka messages and replay them on to the vert.x event bus on an user specified address.
 
 ####To use this module you must have kafka and zookeeper up and running
 
