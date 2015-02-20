@@ -1,0 +1,9 @@
+{
+  "zookeeper.host" : "localhost",
+  "port": "2181",
+  "workers.per.topic" : 3,
+  "group.id" : "testGroup",
+  "backoff.increment.ms" : "100",
+  "autooffset.reset" : "smallest",
+  "topics" : ["testTopic"]
+}

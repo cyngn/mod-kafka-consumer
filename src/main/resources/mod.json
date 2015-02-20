@@ -1,0 +1,6 @@
+{
+  "main":"com.cyngn.kafka.MessageConsumer",
+  "description":"module for consuming kafka messages",
+  "author": "Jeremy Truelove",
+  "auto-redeploy": true
+}
